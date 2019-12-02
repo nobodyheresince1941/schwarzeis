@@ -1,3 +1,5 @@
+---
+
 layout: post
 title: 淬火
 date: 2019-11-16
@@ -6,7 +8,7 @@ categories: 非逼我旧事重提
 tags: [五黑框]
 comments: true
 
-
+---
 
 *他们在厚厚砂石水泥的浇筑封存下历史尘埃埋藏的真相中真实而隐秘地憎恨与相爱。*
 
