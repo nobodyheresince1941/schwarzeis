@@ -30,6 +30,10 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
+  - name: 其他
+    url: /hobbies
+
+
 
 # 每页的文章数
 paginate: 15
