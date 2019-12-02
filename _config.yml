@@ -30,7 +30,7 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
-  - name: 其他
+  - name: 更多
     url: /hobbies
 
 
@@ -43,7 +43,7 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: calradoesntcare#请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: claradoesntcare#请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: conundrum1804@gmail.com
@@ -60,7 +60,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 这不是一部《会饮集》。
+footer-text: Copyright (c) 2019 这不是一部《会饮集》
 
 # 评论，注意，请不要同时添加多种不同的评论区
 
