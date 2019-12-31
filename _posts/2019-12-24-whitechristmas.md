@@ -3,10 +3,10 @@ layout: post
 title: 白色圣诞节 ホワイトクリスマス
 date: 2019-12-24
 Author: 小落
-categories: 
-tags: [成御][逆转爱情故事]
+categories:
+tags: [成御] [逆转爱情故事]
 comments: true
---- 
+---
 
 写给我的老朋友暨我入逆转的领头糖冯唐女士！祝她生日快乐，身体高兴，天天健康，长命百岁！muamuamua╰(⸝⸝⸝´꒳`⸝⸝⸝)╯也祝大家圣诞节快乐🎄🎄（虽然还没到）<br>
 
