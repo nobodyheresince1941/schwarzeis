@@ -5,7 +5,7 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: 是爱是痴莫非真的你不懂
+name: 鸟类学命题集中解答处
 # 描述/签名
 description: 火星动物地球观察志异
 
@@ -59,7 +59,8 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2021 无可解答的鸟类学命题。
+footer-text: Copyright (c) 2021 Neurophite:A matter that is morally neutral.
+
 
 # 评论，注意，请不要同时添加多种不同的评论区
 
