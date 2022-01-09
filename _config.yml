@@ -7,7 +7,7 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 name: 一生うるさい!!
 # 描述/签名
-description: Scenario Liar
+description: 然后我又将沉默不语
 
 
 #
@@ -60,7 +60,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: 有一个绿鸟在讲话©2021
+footer-text: 有一个绿鸟在讲话©2022
 
 
 # 评论，注意，请不要同时添加多种不同的评论区
