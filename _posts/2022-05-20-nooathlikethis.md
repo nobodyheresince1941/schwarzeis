@@ -4,7 +4,7 @@ title: 没有这样的誓言
 date: 2022-05-20
 Author: 小落
 categories: 
-tags: [偶像梦幻祭,涉英]
+tags: [涉英]
 comments: true
 --- 
 
