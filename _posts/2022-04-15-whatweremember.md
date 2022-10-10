@@ -4,7 +4,7 @@ title: 将刻在石板上的
 date: 2022-04-15
 Author: 小落
 categories: 
-tags: [偶像梦幻祭,涉英]
+tags: [涉英]
 comments: true
 --- 
 
