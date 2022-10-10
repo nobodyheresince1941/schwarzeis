@@ -4,7 +4,7 @@ title: 伊赛玛利的故事
 date: 2020-07-21
 Author: 小落
 categories: 
-tags: [明日方舟,银博]
+tags: [银博]
 comments: true
 --- 
 
