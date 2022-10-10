@@ -4,7 +4,7 @@ title: 暴风雪-拟博尔赫斯《诗人》之二
 date: 2021-12-25
 Author: 小落
 categories: 
-tags: [偶像梦幻祭,涉英]
+tags: [涉英]
 comments: true
 --- 
 
