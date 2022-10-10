@@ -4,7 +4,7 @@ title: 妄想妄想
 date: 2020-07-24
 Author: 小落
 categories: 
-tags: [银河英雄传说,先杨]
+tags: [先杨]
 comments: true
 --- 
 
