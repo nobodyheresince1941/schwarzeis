@@ -9,4 +9,5 @@ permalink: /about/
 
 
 杜森堡。<br>
-一只看不见的蛾子扇扇翅膀，从我的嘴中飞出去，留下一嘴的磷粉。
+嘆隙中駒，石中火，夢中身。<br><br>
+女朋友链：[梦是橘](https://quintuschen830.github.io/snowsofyesteryear/)
