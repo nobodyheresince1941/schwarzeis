@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 趁熄灭前
+title: 幻梦
 date: 2025-09-22
 Author: 小落
 categories: 
@@ -9,7 +9,7 @@ tags: [PPJP]
 comments: true
 
 ---
-蜡炬成灰
+来处与归途
 <!-- more -->
 <br>
 
